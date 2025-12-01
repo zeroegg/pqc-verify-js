@@ -1,6 +1,6 @@
 # QLabs PQC Verify - JavaScript
 
-**Status**: 🚧 Coming Soon (Beta: Q2 2025)
+**Status**: 🚧 Coming Soon (Beta: Q2 2026)
 
 Client-side JavaScript library for verifying PQC signatures (browser & Node.js).
 
